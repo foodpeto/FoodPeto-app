@@ -1,0 +1,9 @@
+{
+  "name": "FoodPeto Partner",
+  "short_name": "FP Partner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#25392A",
+  "theme_color": "#25392A",
+  "icons": [{ "src": "../shared/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

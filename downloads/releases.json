@@ -1,0 +1,32 @@
+{
+  "customer": {
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "url": "/downloads/foodpeto-customer-1.0.1.apk",
+    "sizeMB": 0.02,
+    "notes": [
+      "No more blank screen — shows what to check if the server can't be reached",
+      "Works on older Android phones",
+      "New email & password login"
+    ],
+    "minVersionCode": 0,
+    "package": "com.foodpeto.customer",
+    "server": "http://192.168.31.90:5173",
+    "builtAt": "2026-11-11T06:01:42.718Z"
+  },
+  "partner": {
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "url": "/downloads/foodpeto-partner-1.0.1.apk",
+    "sizeMB": 0.02,
+    "notes": [
+      "No more blank screen — shows what to check if the server can't be reached",
+      "Works on older Android phones",
+      "New email & password login"
+    ],
+    "minVersionCode": 0,
+    "package": "com.foodpeto.partner",
+    "server": "http://192.168.31.90:5173",
+    "builtAt": "2026-11-11T06:01:45.989Z"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "foodpeto-apps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FoodPeto customer, delivery partner and admin apps with a zero-dependency Node + SQLite backend",
+  "scripts": {
+    "start": "node server.js",
+    "apk": "node tools/build-apk.js"
+  },
+  "engines": { "node": ">=22.5" }
+}

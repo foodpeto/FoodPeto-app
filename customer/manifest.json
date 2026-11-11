@@ -1,0 +1,9 @@
+{
+  "name": "FoodPeto — Fresh food for pets",
+  "short_name": "FoodPeto",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F2E4",
+  "theme_color": "#3D5C3A",
+  "icons": [{ "src": "../shared/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
